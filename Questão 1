@@ -14,6 +14,7 @@ f) Mostre ao cliente o valor que será cobrado.
 '''
 
 print("*** Compra de Pizza ***")
+print("\n")
 
 QuantPizza = int(input("Quantas pizzas você deseja? "))
 PreçoPizza = eval(input("Qual preço da pizza que está no cardápio? R$")) 
